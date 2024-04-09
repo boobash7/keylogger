@@ -1,0 +1,7 @@
+Key.shift'j''h''h''o''t''i''a''j'Key.space'o''i''j''o''p''s''j''o''k'']'
+'p'Key.space'l''[''p''k'Key.space'p''\x0c'Key.enterKey.ctrl_lKey.spaceKey.shift_rKey.shiftKey.shift_rKey.enterKey.shift_r"'"
+Key.spaceKey.enterKey.enter<100>Key.caps_lock'q'Key.enter'\\'<100>Key.space<101>Key.enter<100>Key.enter<99><101>
+<99><100><101><100>'l'';''m''s''d'';''k''g''a'Key.space'/'','Key.shift_rKey.space
+
+
+
